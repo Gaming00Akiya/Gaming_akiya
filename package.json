@@ -1,7 +1,7 @@
 {
-  "name": "uzaki",
-  "version": "3.0.0",
-  "description": "uzaki bot fuciona sem internet md é multi device fica 24 horas on uzaki bot um bot muito lodoh com 300 comandos.",
+  "name": "🪬𝙶𝙰𝙼𝙸𝙽𝙶 AKIYA 🪄",
+  "version": "5.3.4",
+  "description": "🪬𝙶𝙰𝙼𝙸𝙽𝙶 AKIYA 🪄 bot .",
   "main": "index.js",
   "scripts": {
     "test": "node index.js",
@@ -15,7 +15,7 @@
     "não",
     "tem"
   ],
-  "author": "Fernando modz",
+  "author": "🪬𝙶𝙰𝙼𝙸𝙽𝙶 AKIYA 🪄",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Fernando/UZAKI-BOT/issues"
